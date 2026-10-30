@@ -22,9 +22,16 @@ Building **HARGILE**.
 
 ### Before
 
-C/C++ systems projects at École 42:
+Systems and web projects at École 42.
 
-- 🐚 [minishell](https://github.com/Tangzer/Minishell): a Bash-like shell
+**Team projects**
+
+- 🌐 [ft_transcendence](https://github.com/DoDesCadeaux/ft_transcendence): multiplayer Pong web app; I built the blockchain layer (smart contracts storing tournament results)
+- 🖧 [webserv](https://github.com/DoDesCadeaux/webserv): an HTTP/1.1 web server in C++
+- 🐚 [minishell](https://github.com/DoDesCadeaux/minishell): a Bash-like shell in C
+
+**Solo projects**
+
 - 🎮 [cub3D](https://github.com/Tangzer/Cub3D): a raycasting engine
 - 🍝 [philosophers](https://github.com/Tangzer/Philo): threads and mutexes
 - 🐳 [Inception](https://github.com/Tangzer/Inception): a Docker stack
