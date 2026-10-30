@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanguy 👋</h1>
 
 <p align="center">
-  🚀 Co-founder & CEO of <a href="https://hargile.com"><b>HARGILE</b></a>: we help SMEs get cited in AI answers.<br>
+  🚀 Co-founder & CEO of <a href="https://hargile.com"><b>HARGILE</b></a>: we help companies get cited by AI.<br>
   🎓 Trained at <b>École 42</b> (Brussels)
 </p>
 
