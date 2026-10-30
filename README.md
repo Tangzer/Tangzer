@@ -27,7 +27,6 @@ Systems and web projects at École 42.
 **Team projects**
 
 - 🌐 [ft_transcendence](https://github.com/DoDesCadeaux/ft_transcendence): multiplayer Pong web app; I built the blockchain layer (smart contracts storing tournament results)
-- 🖧 [webserv](https://github.com/DoDesCadeaux/webserv): an HTTP/1.1 web server in C++
 - 🐚 [minishell](https://github.com/DoDesCadeaux/minishell): a Bash-like shell in C
 
 **Solo projects**
